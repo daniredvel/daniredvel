@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I am a software developer with special interest in Java and Kotlin, game development and artificial intelligence.<br>⚡ I am currently learning android application development, unity and python.<br>
+🔭 Software developer from Valladolid, Spain.
+<br>⚡ Specialised in Java, relational database design and SQL.
+<br> Currently finishing my studies of Advanced Technician in Multiplatform Applications Development.
+<br>
 
 
 ## 🌐 Socials:
