@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Software developer from Valladolid, Spain.
 <br>⚡ Specialised in Java, relational database design and SQL.
-<br> Currently finishing my studies of Advanced Technician in Multiplatform Applications Development.
+<br>👾 Currently finishing my studies of Advanced Technician in Multiplatform Applications Development.
 <br>
 
 
